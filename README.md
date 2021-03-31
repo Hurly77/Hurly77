@@ -1,4 +1,3 @@
-![Visitor count](https://img.shields.io/badge/let%20actualVisitors%20%3D-%20visitors%20%3C%3D%200%20%3F%20'It's%20a%20lot!'%20%3A%20%E2%88%9E-blue)
 ### 👋 Hi I'm Cameron, or CJ wich ever you prever 👋
 ## <h2>Check out my [portfolio](https://cjleverett.me)</h2>
 
